@@ -1,16 +1,5 @@
 # ETL Pipeline for NYC Airbnb Open Data
 
-## Table of Contents
-
-1. [Set Up the Environment](#set-up-the-environment)
-2. [Data Ingestion](#data-ingestion)
-3. [Data Transformation Using AWS Lambda](#data-transformation-using-aws-lambda)
-4. [Create Tables in Amazon Redshift](#create-tables-in-amazon-redshift)
-5. [Data Loading into Redshift](#data-loading-into-redshift)
-6. [Data Quality Checks](#data-quality-checks)
-7. [Real-Time Monitoring and Streaming](#real-time-monitoring-and-streaming)
-8. [Automation Using AWS Step Functions](#automation-using-aws-step-functions)
-
 ## 1. Set Up the Environment
 
 To set up the required AWS services, follow these steps:
